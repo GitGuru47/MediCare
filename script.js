@@ -1,4 +1,3 @@
-/* FILE: script.js */
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("contact-form");
   const msg = document.getElementById("form-message");
